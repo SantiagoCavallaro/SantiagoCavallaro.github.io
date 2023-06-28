@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+}
+
+header{
+    background-color: yellow;
+    height: 200px;
+}
+
+a{
+    text-decoration: none;
+    color:black
+}
+.logo{
+    width: 200px;
+}
+
+.productos-header {
+    position: absolute
+    top: 10.5%;
+    right: 36%; 
+}
+
+.header-nav {
+     position:absolute
+      top: 10%;
+     right: 4%;
+}
+
+.opiniones{
+    position:absolute
+    top: 10.5%;
+    right: 23.5%;
+}
+
+.footer-nav ul {
+    list-style-type: style none;
+}
+
+.footer-nav h2 {
+    margin-left: 5%;
+}
